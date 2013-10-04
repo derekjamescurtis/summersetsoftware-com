@@ -1,0 +1,22 @@
+# temp/log files
+*~
+*.old
+*.bak
+*.log
+log/
+
+# build-generated
+MYMETA.yml
+MYMETA.json
+META.yml
+Makefile
+blib/
+inc/
+pm_to_blib
+
+# eclipse 
+.includepath
+.project
+
+# project-specific
+/jakartapm.db
